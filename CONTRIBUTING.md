@@ -1,4 +1,3 @@
-_**Please read** our_
-[**contributing guide**](https://github.com/dwyl/contributing)
-(_thank you_!)
+Want to add missing English /^[a-z]+$/ words to our list? Please, open a MR!
 
+Want to remove invalid* words from our list? Please, open a MR!
